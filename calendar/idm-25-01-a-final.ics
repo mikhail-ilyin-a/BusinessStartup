@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ИДМ-25-01 Подгруппа А//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ИДМ-25-01 — Подгруппа А
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:mon-soc-lecture-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260907T155000
+DTEND;TZID=Europe/Moscow:20260907T172500
+SUMMARY:Лекция — Социология культуры и межкультурные коммуникации — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Маслов Г.А.\nТип: Лекция\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 07.09.2026–09.11.2026
+RRULE:FREQ=WEEKLY;COUNT=10
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mon-method-lecture-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260907T180000
+DTEND;TZID=Europe/Moscow:20260907T193000
+SUMMARY:Лекция — Методологии концептуального проектирования техники и технологий — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Волкова Г.Д.\nТип: Лекция\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 07.09.2026–09.11.2026
+RRULE:FREQ=WEEKLY;COUNT=10
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-super-lecture-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260901T155000
+DTEND;TZID=Europe/Moscow:20260901T172500
+SUMMARY:Лекция — Суперкомпьютерные вычисления — ОЧНО, ауд. 0408
+DESCRIPTION:Преподаватель: Стихова О.В.\nТип: Лекция\nФормат: очно\nАудитория: 0408\nПодгруппа: общая\nПериод: 01.09.2026–06.10.2026
+LOCATION:0408
+RRULE:FREQ=WEEKLY;COUNT=6
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-pm-lecture-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260901T180000
+DTEND;TZID=Europe/Moscow:20260901T193000
+SUMMARY:Лекция — Управление проектными командами — ОЧНО, ауд. 0408
+DESCRIPTION:Преподаватель: Михайлова М.В.\nТип: Лекция\nФормат: очно\nАудитория: 0408\nПодгруппа: общая\nПериод: 01.09.2026–03.11.2026
+LOCATION:0408
+RRULE:FREQ=WEEKLY;COUNT=10
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-soc-seminar-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260909T180000
+DTEND;TZID=Europe/Moscow:20260909T193000
+SUMMARY:Семинар — Социология культуры и межкультурные коммуникации — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Маслов Г.А.\nТип: Семинар\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 09.09.2026–28.10.2026
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-pm-seminar-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260910T155000
+DTEND;TZID=Europe/Moscow:20260910T172500
+SUMMARY:Семинар — Управление проектными командами — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Михайлова М.В.\nТип: Семинар\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 10.09.2026–12.11.2026
+RRULE:FREQ=WEEKLY;COUNT=10
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-org-lecture-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260903T180000
+DTEND;TZID=Europe/Moscow:20260903T193000
+SUMMARY:Лекция — Организация внедрения и сопровождения программного продукта — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Коган Ю.Г.\nТип: Лекция\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 03.09.2026–05.11.2026
+RRULE:FREQ=WEEKLY;COUNT=10
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-method-seminar-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260910T194000
+DTEND;TZID=Europe/Moscow:20260910T211000
+SUMMARY:Семинар — Методологии концептуального проектирования техники и технологий — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Бирев М.Э.\nТип: Семинар\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 10.09.2026–01.10.2026
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mon-method-lab-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261005T194000
+DTEND;TZID=Europe/Moscow:20261005T211000
+SUMMARY:Лабораторная работа (А) — Методологии концептуального проектирования техники и технологий — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Бирев М.Э.\nТип: Лабораторная работа\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: А\nПериод: 05.10.2026–02.11.2026\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mon-org-lab-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261012T212000
+DTEND;TZID=Europe/Moscow:20261012T225000
+SUMMARY:Лабораторная работа (А) — Организация внедрения и сопровождения программного продукта — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Коган Ю.Г.\nТип: Лабораторная работа\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: А\nПериод: 12.10.2026–09.11.2026\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-super-lab-A@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20260923T194000
+DTEND;TZID=Europe/Moscow:20260923T211000
+SUMMARY:Лабораторная работа (А) — Суперкомпьютерные вычисления — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Стихова О.В.\nТип: Лабораторная работа\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: А\nПериод: 23.09.2026–21.10.2026\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-soc-seminar-20261111@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261111T180000
+DTEND;TZID=Europe/Moscow:20261111T193000
+SUMMARY:Семинар — Социология культуры и межкультурные коммуникации — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Маслов Г.А.\nТип: Семинар\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nДополнительная дата: 11.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-soc-seminar-20261118@idm-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261118T180000
+DTEND;TZID=Europe/Moscow:20261118T193000
+SUMMARY:Семинар — Социология культуры и межкультурные коммуникации — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Маслов Г.А.\nТип: Семинар\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nДополнительная дата: 18.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-seminar-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Семинар — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Чаруйская М.А.\nТип: Семинар\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 13.11.2026–04.12.2026\nЧередование: каждую неделю (к.н.)
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lecture-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261030T180000
+DTEND;TZID=Europe/Moscow:20261030T193000
+SUMMARY:Лекция — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Чаруйская М.А.\nТип: Лекция\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nПериод: 30.10.2026–18.12.2026\nЧередование: каждую неделю (к.н.)
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lecture-extra-20261030-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261030T194000
+DTEND;TZID=Europe/Moscow:20261030T211000
+SUMMARY:Лекция — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Чаруйская М.А.\nТип: Лекция\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nДополнительная дата: 30.10.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lecture-extra-20261106-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261106T194000
+DTEND;TZID=Europe/Moscow:20261106T211000
+SUMMARY:Лекция — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Чаруйская М.А.\nТип: Лекция\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: общая\nДополнительная дата: 06.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lab-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261120T194000
+DTEND;TZID=Europe/Moscow:20261120T211000
+SUMMARY:Лабораторная работа (А) — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Преподаватель: Чаруйская М.А.\nТип: Лабораторная работа\nФормат: дистанционно\nАудитория: не указана\nПодгруппа: А\nПериод: 20.11.2026–18.12.2026\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+END:VCALENDAR
