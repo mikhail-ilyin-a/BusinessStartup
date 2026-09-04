@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ИДМ-25-01 Подгруппа А//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ИДМ-25-01 — Подгруппа А
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:fri-tech-seminar-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Семинар — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление технологическим развитием. Инновационные бизнес-модели.\nПреподаватель: Чаруйская М.А.\nТип занятия: Семинар\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 13.11.2026–04.12.2026\nЧередование: каждую неделю (к.н.)\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lecture-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261030T180000
+DTEND;TZID=Europe/Moscow:20261030T193000
+SUMMARY:Лекция — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление технологическим развитием. Инновационные бизнес-модели.\nПреподаватель: Чаруйская М.А.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 30.10.2026–18.12.2026\nЧередование: каждую неделю (к.н.)\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lab-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261120T194000
+DTEND;TZID=Europe/Moscow:20261120T211000
+SUMMARY:Лабораторная работа (А) — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление технологическим развитием. Инновационные бизнес-модели.\nПреподаватель: Чаруйская М.А.\nТип занятия: Лабораторная работа\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 20.11.2026–18.12.2026\nЧередование: через неделю (ч.н.)\nПодгруппа: А
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lecture-extra-20261030-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261030T194000
+DTEND;TZID=Europe/Moscow:20261030T211000
+SUMMARY:Лекция — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление технологическим развитием. Инновационные бизнес-модели.\nПреподаватель: Чаруйская М.А.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nДополнительная дата: 30.10.2026\nПодгруппа: общая
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-tech-lecture-extra-20261106-A@el-utr-25-01
+DTSTAMP:20260904T204700Z
+DTSTART;TZID=Europe/Moscow:20261106T194000
+DTEND;TZID=Europe/Moscow:20261106T211000
+SUMMARY:Лекция — Управление технологическим развитием. Инновационные бизнес-модели. — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление технологическим развитием. Инновационные бизнес-модели.\nПреподаватель: Чаруйская М.А.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nДополнительная дата: 06.11.2026\nПодгруппа: общая
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Начало занятия через 5 минут
+END:VALARM
+END:VEVENT
+END:VCALENDAR
