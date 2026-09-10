@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ИДМ-26-01 Подгруппа А//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ИДМ-26-01 — Подгруппа А
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:mon-internet-A@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260928T155000
+DTEND;TZID=Europe/Moscow:20260928T172500
+SUMMARY:Лабораторная работа (А) — Интернет-технологии — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Интернет-технологии\nПреподаватель: Снопок К.А.\nТип занятия: Лабораторная работа\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 28.09.2026–26.10.2026\nПодгруппа: А\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mon-modern-A@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261019T155000
+DTEND;TZID=Europe/Moscow:20261019T172500
+SUMMARY:Лабораторная работа (А) — Современные технологии разработки ПО — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Современные технологии разработки ПО\nПреподаватель: Волкова О.Р.\nТип занятия: Лабораторная работа\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 19.10.2026–30.11.2026\nПодгруппа: А\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mon-org-A@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261019T194000
+DTEND;TZID=Europe/Moscow:20261019T211000
+SUMMARY:Лабораторная работа (А) — Управление организационными системами — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление организационными системами\nПреподаватель: Волкова О.Р.\nТип занятия: Лабораторная работа\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 19.10.2026–30.11.2026\nПодгруппа: А\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-org-1@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260908T155000
+DTEND;TZID=Europe/Moscow:20260908T172500
+SUMMARY:Лекция — Управление организационными системами — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление организационными системами\nПреподаватель: Волкова О.Р.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 08.09.2026–29.09.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-org-2@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261020T155000
+DTEND;TZID=Europe/Moscow:20261020T172500
+SUMMARY:Лекция — Управление организационными системами — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Управление организационными системами\nПреподаватель: Волкова О.Р.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 20.10.2026–10.11.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-pnc-seminar@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260915T180000
+DTEND;TZID=Europe/Moscow:20260915T193000
+SUMMARY:Семинар — Профессиональные научные коммуникации — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Профессиональные научные коммуникации\nПреподаватель: Кривобокова Е.В.\nТип занятия: Семинар\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 15.09.2026–03.11.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-math-seminar@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260915T194000
+DTEND;TZID=Europe/Moscow:20260915T211000
+SUMMARY:Семинар — Математическое и компьютерное моделирование — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Математическое и компьютерное моделирование\nПреподаватель: Дрякина В.С.\nТип занятия: Семинар\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 15.09.2026–06.10.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tue-method-seminar@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261013T194000
+DTEND;TZID=Europe/Moscow:20261013T211000
+SUMMARY:Семинар — Методология научных исследований — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Методология научных исследований\nПреподаватель: Шитов С.Б.\nТип занятия: Семинар\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 13.10.2026–03.11.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-method-lecture@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260909T155000
+DTEND;TZID=Europe/Moscow:20260909T172500
+SUMMARY:Лекция — Методология научных исследований — ОЧНО, ауд. 0206
+DESCRIPTION:Дисциплина: Методология научных исследований\nПреподаватель: Шитов С.Б.\nТип занятия: Лекция\nФормат: очная\nАудитория: 0206\nПериод: 09.09.2026–28.10.2026\nПодгруппа: общая
+LOCATION:0206
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-math-lecture-1@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260909T180000
+DTEND;TZID=Europe/Moscow:20260909T193000
+SUMMARY:Лекция — Математическое и компьютерное моделирование — ОЧНО, ауд. 0206
+DESCRIPTION:Дисциплина: Математическое и компьютерное моделирование\nПреподаватель: Уварова Л.А.\nТип занятия: Лекция\nФормат: очная\nАудитория: 0206\nПериод: 09.09.2026–28.10.2026\nПодгруппа: общая
+LOCATION:0206
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-math-lecture-2@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261111T180000
+DTEND;TZID=Europe/Moscow:20261111T193000
+SUMMARY:Лекция — Математическое и компьютерное моделирование — ОЧНО, ауд. 0206
+DESCRIPTION:Дисциплина: Математическое и компьютерное моделирование\nПреподаватель: Уварова Л.А.\nТип занятия: Лекция\nФормат: очная\nАудитория: 0206\nПериод: 11.11.2026–02.12.2026\nПодгруппа: общая
+LOCATION:0206
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-modern-1@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260910T180000
+DTEND;TZID=Europe/Moscow:20260910T193000
+SUMMARY:Лекция — Современные технологии разработки ПО — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Современные технологии разработки ПО\nПреподаватель: Волкова О.Р.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 10.09.2026–01.10.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-modern-2@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261022T180000
+DTEND;TZID=Europe/Moscow:20261022T193000
+SUMMARY:Лекция — Современные технологии разработки ПО — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Современные технологии разработки ПО\nПреподаватель: Волкова О.Р.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 22.10.2026–10.12.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-math-lab-A@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261008T194000
+DTEND;TZID=Europe/Moscow:20261008T211000
+SUMMARY:Лабораторная работа (А) — Математическое и компьютерное моделирование — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Математическое и компьютерное моделирование\nПреподаватель: Дрякина В.С.\nТип занятия: Лабораторная работа\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 08.10.2026–19.11.2026\nПодгруппа: А\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=4
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thu-infographics-lab-A@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20261015T194000
+DTEND;TZID=Europe/Moscow:20261015T211000
+SUMMARY:Лабораторная работа (А) — Инфографика и визуализация данных — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Инфографика и визуализация данных\nПреподаватель: Локтев М.А.\nТип занятия: Лабораторная работа\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 15.10.2026–12.11.2026\nПодгруппа: А\nЧередование: через неделю (ч.н.)
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=3
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-infographics-lecture@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260911T155000
+DTEND;TZID=Europe/Moscow:20260911T172500
+SUMMARY:Лекция — Инфографика и визуализация данных — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Инфографика и визуализация данных\nПреподаватель: Локтев М.А.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 11.09.2026–16.10.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=6
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-pnc-lecture@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260911T180000
+DTEND;TZID=Europe/Moscow:20260911T193000
+SUMMARY:Лекция — Профессиональные научные коммуникации — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Профессиональные научные коммуникации\nПреподаватель: Кривобокова Е.В.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 11.09.2026–30.10.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=8
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fri-internet-lecture@idm-26-01-a
+DTSTAMP:20260910T143100Z
+DTSTART;TZID=Europe/Moscow:20260911T194000
+DTEND;TZID=Europe/Moscow:20260911T211000
+SUMMARY:Лекция — Интернет-технологии — ДИСТАНЦИОННО
+DESCRIPTION:Дисциплина: Интернет-технологии\nПреподаватель: Снопок К.А.\nТип занятия: Лекция\nФормат: дистанционная\nАудитория: не указана (дистанционно)\nПериод: 11.09.2026–16.10.2026\nПодгруппа: общая
+RRULE:FREQ=WEEKLY;COUNT=6
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+END:VCALENDAR
