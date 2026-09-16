@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//КамГолд//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:КамГолд
+X-WR-TIMEZONE:Asia/Anadyr
+BEGIN:VEVENT
+UID:kamgold-breakfast-contractors-2026@businessstartup
+DTSTAMP:20260916T020900Z
+DTSTART;TZID=Asia/Anadyr:20260916T070000
+DTEND;TZID=Asia/Anadyr:20260916T080000
+SUMMARY:КамГолд — Завтрак — Подрядные организации
+DESCRIPTION:Приём пищи: Завтрак\nДля: Подрядные организации\nПериод: 16.09.2026–30.09.2026
+RRULE:FREQ=DAILY;UNTIL=20260930T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:kamgold-lunch-contractors-2026@businessstartup
+DTSTAMP:20260916T020900Z
+DTSTART;TZID=Asia/Anadyr:20260916T130000
+DTEND;TZID=Asia/Anadyr:20260916T140000
+SUMMARY:КамГолд — Обед — Подрядные организации
+DESCRIPTION:Приём пищи: Обед\nДля: Подрядные организации\nПериод: 16.09.2026–30.09.2026
+RRULE:FREQ=DAILY;UNTIL=20260930T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:kamgold-dinner-contractors-2026@businessstartup
+DTSTAMP:20260916T020900Z
+DTSTART;TZID=Asia/Anadyr:20260916T200000
+DTEND;TZID=Asia/Anadyr:20260916T210000
+SUMMARY:КамГолд — Ужин — Подрядные организации
+DESCRIPTION:Приём пищи: Ужин\nДля: Подрядные организации\nПериод: 16.09.2026–30.09.2026
+RRULE:FREQ=DAILY;UNTIL=20260930T235959
+END:VEVENT
+END:VCALENDAR
