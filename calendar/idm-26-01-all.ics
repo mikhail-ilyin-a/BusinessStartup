@@ -1,0 +1,1769 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//User schedule ИДМ-26-01 autumn 2026//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ИДМ-26-01 — все занятия А + Б
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:20260908-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260908T125000Z
+DTEND:20260908T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260909T125000Z
+DTEND:20260909T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260909T150000Z
+DTEND:20260909T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260910T150000Z
+DTEND:20260910T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-infographics-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260911T125000Z
+DTEND:20260911T142500Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260911T150000Z
+DTEND:20260911T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-internet-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260911T164000Z
+DTEND:20260911T181000Z
+SUMMARY:Интернет-технологии · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260915T125000Z
+DTEND:20260915T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260915T150000Z
+DTEND:20260915T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915-math-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260915T164000Z
+DTEND:20260915T181000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260916T125000Z
+DTEND:20260916T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260916T150000Z
+DTEND:20260916T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260917T150000Z
+DTEND:20260917T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-infographics-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260918T125000Z
+DTEND:20260918T142500Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260918T150000Z
+DTEND:20260918T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-internet-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260918T164000Z
+DTEND:20260918T181000Z
+SUMMARY:Интернет-технологии · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260921-internet-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260921T125000Z
+DTEND:20260921T142500Z
+SUMMARY:Интернет-технологии · Лабораторна
+ я (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Снопок К.А.\nГруппа: ИДМ-26-01 (подгр. Б
+ )\nДата восстановлена по чередованию с 
+ подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260922T125000Z
+DTEND:20260922T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260922T150000Z
+DTEND:20260922T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-math-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260922T164000Z
+DTEND:20260922T181000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260923T125000Z
+DTEND:20260923T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260923T150000Z
+DTEND:20260923T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260924T150000Z
+DTEND:20260924T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-infographics-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260925T125000Z
+DTEND:20260925T142500Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260925T150000Z
+DTEND:20260925T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-internet-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260925T164000Z
+DTEND:20260925T181000Z
+SUMMARY:Интернет-технологии · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-internet-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260928T125000Z
+DTEND:20260928T142500Z
+SUMMARY:Интернет-технологии · Лабораторна
+ я (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260929-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260929T125000Z
+DTEND:20260929T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260929-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260929T150000Z
+DTEND:20260929T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260929-math-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260929T164000Z
+DTEND:20260929T181000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260930-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260930T125000Z
+DTEND:20260930T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260930-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20260930T150000Z
+DTEND:20260930T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261001-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261001T150000Z
+DTEND:20261001T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-infographics-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261002T125000Z
+DTEND:20261002T142500Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261002T150000Z
+DTEND:20261002T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002-internet-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261002T164000Z
+DTEND:20261002T181000Z
+SUMMARY:Интернет-технологии · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-internet-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261005T125000Z
+DTEND:20261005T142500Z
+SUMMARY:Интернет-технологии · Лабораторна
+ я (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Снопок К.А.\nГруппа: ИДМ-26-01 (подгр. Б
+ )\nДата восстановлена по чередованию с 
+ подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261006T150000Z
+DTEND:20261006T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-math-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261006T164000Z
+DTEND:20261006T181000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261007T125000Z
+DTEND:20261007T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261007T150000Z
+DTEND:20261007T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-infographics-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261008T164000Z
+DTEND:20261008T195000Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Локтев М.А.\nГруппа: ИДМ-26-01 (подгр. Б
+ )\nДата восстановлена по чередованию с 
+ подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-math-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261008T164000Z
+DTEND:20261008T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-infographics-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261009T125000Z
+DTEND:20261009T142500Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261009T150000Z
+DTEND:20261009T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-internet-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261009T164000Z
+DTEND:20261009T181000Z
+SUMMARY:Интернет-технологии · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-internet-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261012T125000Z
+DTEND:20261012T142500Z
+SUMMARY:Интернет-технологии · Лабораторна
+ я (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261013T150000Z
+DTEND:20261013T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-method-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261013T164000Z
+DTEND:20261013T181000Z
+SUMMARY:Методология научных исследований 
+ · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261014T125000Z
+DTEND:20261014T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261014T150000Z
+DTEND:20261014T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-infographics-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261015T164000Z
+DTEND:20261015T195000Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-math-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261015T164000Z
+DTEND:20261015T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Дрякина В.С.\nГруппа: ИДМ-26-01 (подгр. 
+ Б)\nДата восстановлена по чередованию с
+  подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-infographics-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261016T125000Z
+DTEND:20261016T142500Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261016T150000Z
+DTEND:20261016T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-internet-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261016T164000Z
+DTEND:20261016T181000Z
+SUMMARY:Интернет-технологии · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-internet-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261019T125000Z
+DTEND:20261019T142500Z
+SUMMARY:Интернет-технологии · Лабораторна
+ я (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Снопок К.А.\nГруппа: ИДМ-26-01 (подгр. Б
+ )\nДата восстановлена по чередованию с 
+ подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-modern-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261019T125000Z
+DTEND:20261019T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-org-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261019T164000Z
+DTEND:20261019T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261020T125000Z
+DTEND:20261020T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261020T150000Z
+DTEND:20261020T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-method-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261020T164000Z
+DTEND:20261020T181000Z
+SUMMARY:Методология научных исследований 
+ · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261021T125000Z
+DTEND:20261021T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261021T150000Z
+DTEND:20261021T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261022T150000Z
+DTEND:20261022T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-infographics-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261022T164000Z
+DTEND:20261022T195000Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Локтев М.А.\nГруппа: ИДМ-26-01 (подгр. Б
+ )\nДата восстановлена по чередованию с 
+ подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-math-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261022T164000Z
+DTEND:20261022T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261023T150000Z
+DTEND:20261023T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-internet-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261026T125000Z
+DTEND:20261026T142500Z
+SUMMARY:Интернет-технологии · Лабораторна
+ я (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-modern-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261026T125000Z
+DTEND:20261026T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Волкова О.Р.\nГруппа: ИДМ-26-01 (подгр. 
+ Б)\nДата восстановлена по чередованию с
+  подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-org-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261026T164000Z
+DTEND:20261026T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Волкова О.Р.\nГруппа: ИДМ-26-01 (подгр. 
+ Б)\nДата восстановлена по чередованию с
+  подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261027T125000Z
+DTEND:20261027T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261027T150000Z
+DTEND:20261027T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-method-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261027T164000Z
+DTEND:20261027T181000Z
+SUMMARY:Методология научных исследований 
+ · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-method-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261028T125000Z
+DTEND:20261028T142500Z
+SUMMARY:Методология научных исследований 
+ · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261028T150000Z
+DTEND:20261028T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:0206
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261029T150000Z
+DTEND:20261029T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-infographics-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261029T164000Z
+DTEND:20261029T195000Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-math-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261029T164000Z
+DTEND:20261029T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Дрякина В.С.\nГруппа: ИДМ-26-01 (подгр. 
+ Б)\nДата восстановлена по чередованию с
+  подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-communications-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261030T150000Z
+DTEND:20261030T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-modern-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261102T125000Z
+DTEND:20261102T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-org-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261102T164000Z
+DTEND:20261102T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261103T125000Z
+DTEND:20261103T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-communications-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261103T150000Z
+DTEND:20261103T163000Z
+SUMMARY:Профессиональные научные коммуник
+ ации · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-method-sem-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261103T164000Z
+DTEND:20261103T181000Z
+SUMMARY:Методология научных исследований 
+ · Семинар
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261105T150000Z
+DTEND:20261105T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-infographics-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261105T164000Z
+DTEND:20261105T195000Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная работа\nПреподават
+ ель: Локтев М.А.\nГруппа: ИДМ-26-01 (подгр. Б
+ )\nДата восстановлена по чередованию с 
+ подгруппой А\; требует проверки в ЭОС С
+ ТАНКИН.\nИсточник: восстановление по че
+ редованию подгрупп
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-math-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261105T164000Z
+DTEND:20261105T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. А)
+DESCRIPTION:Напоминание о занятии\nИсточник: 
+ ранее опубликованный календарь ИДМ-26-01
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-modern-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261109T125000Z
+DTEND:20261109T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. Б)\nЗаня
+ тие 2 из 3\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-org-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261109T164000Z
+DTEND:20261109T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. Б)\nЗаня
+ тие 2 из 3\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-org-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261110T125000Z
+DTEND:20261110T142500Z
+SUMMARY:Управление организационными систе
+ мами · Лекция
+DESCRIPTION:Лекция\nПреподаватель: Волкова О.
+ Р.\nГруппа: ИДМ-26-01\nЗанятие 8 из 8\nФормат 
+ по ранее опубликованному расписанию: д
+ истанционный\nИсточник: приложенное ра
+ списание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261111T150000Z
+DTEND:20261111T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:Ауд. 0206
+DESCRIPTION:Лекция\nПреподаватель: Уварова Л.
+ А.\nГруппа: ИДМ-26-01\nЗанятие 9 из 12\nИсточн
+ ик: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261112T150000Z
+DTEND:20261112T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Лекция\nПреподаватель: Волкова О.
+ Р.\nГруппа: ИДМ-26-01\nЗанятие 8 из 12\nФормат
+  по ранее опубликованному расписанию: 
+ дистанционный\nИсточник: приложенное р
+ асписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-infographics-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261112T164000Z
+DTEND:20261112T195000Z
+SUMMARY:Инфографика и визуализация данных 
+ · Лабораторная (подгр. А)
+DESCRIPTION:Лабораторная\nПреподаватель: Лок
+ тев М.А.\nГруппа: ИДМ-26-01 (подгр. А)\nЗанят
+ ие 3 из 3\nФормат по ранее опубликованно
+ му расписанию: дистанционный\nИсточник
+ : приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-math-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261112T164000Z
+DTEND:20261112T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная\nПреподаватель: Дря
+ кина В.С.\nГруппа: ИДМ-26-01 (подгр. Б)\nЗаня
+ тие 3 из 4\nИсточник: приложенное распис
+ ание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-modern-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261116T125000Z
+DTEND:20261116T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. А)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. А)\nЗаня
+ тие 3 из 4\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-org-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261116T164000Z
+DTEND:20261116T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. А)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. А)\nЗаня
+ тие 3 из 4\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261118T150000Z
+DTEND:20261118T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:Ауд. 0206
+DESCRIPTION:Лекция\nПреподаватель: Уварова Л.
+ А.\nГруппа: ИДМ-26-01\nЗанятие 10 из 12\nИсточ
+ ник: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261119T150000Z
+DTEND:20261119T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Лекция\nПреподаватель: Волкова О.
+ Р.\nГруппа: ИДМ-26-01\nЗанятие 9 из 12\nФормат
+  по ранее опубликованному расписанию: 
+ дистанционный\nИсточник: приложенное р
+ асписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-math-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261119T164000Z
+DTEND:20261119T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. А)
+DESCRIPTION:Лабораторная\nПреподаватель: Дря
+ кина В.С.\nГруппа: ИДМ-26-01 (подгр. А)\nЗаня
+ тие 4 из 4\nИсточник: приложенное распис
+ ание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-modern-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261123T125000Z
+DTEND:20261123T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. Б)\nЗаня
+ тие 3 из 3\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-org-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261123T164000Z
+DTEND:20261123T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. Б)\nЗаня
+ тие 3 из 3\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261125T150000Z
+DTEND:20261125T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:Ауд. 0206
+DESCRIPTION:Лекция\nПреподаватель: Уварова Л.
+ А.\nГруппа: ИДМ-26-01\nЗанятие 11 из 12\nИсточ
+ ник: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261126T150000Z
+DTEND:20261126T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Лекция\nПреподаватель: Волкова О.
+ Р.\nГруппа: ИДМ-26-01\nЗанятие 10 из 12\nФорма
+ т по ранее опубликованному расписанию:
+  дистанционный\nИсточник: приложенное 
+ расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126-math-lab-b@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261126T164000Z
+DTEND:20261126T195000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лабораторная (подгр. Б)
+DESCRIPTION:Лабораторная\nПреподаватель: Дря
+ кина В.С.\nГруппа: ИДМ-26-01 (подгр. Б)\nЗаня
+ тие 4 из 4\nИсточник: приложенное распис
+ ание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-modern-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261130T125000Z
+DTEND:20261130T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лабораторная (подгр. А)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. А)\nЗаня
+ тие 4 из 4\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-org-lab-a@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261130T164000Z
+DTEND:20261130T195000Z
+SUMMARY:Управление организационными систе
+ мами · Лабораторная (подгр. А)
+DESCRIPTION:Лабораторная\nПреподаватель: Вол
+ кова О.Р.\nГруппа: ИДМ-26-01 (подгр. А)\nЗаня
+ тие 4 из 4\nФормат по ранее опубликованн
+ ому расписанию: дистанционный\nИсточни
+ к: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261202-math-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261202T150000Z
+DTEND:20261202T163000Z
+SUMMARY:Математическое и компьютерное мод
+ елирование · Лекция
+LOCATION:Ауд. 0206
+DESCRIPTION:Лекция\nПреподаватель: Уварова Л.
+ А.\nГруппа: ИДМ-26-01\nЗанятие 12 из 12\nИсточ
+ ник: приложенное расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261203T150000Z
+DTEND:20261203T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Лекция\nПреподаватель: Волкова О.
+ Р.\nГруппа: ИДМ-26-01\nЗанятие 11 из 12\nФорма
+ т по ранее опубликованному расписанию:
+  дистанционный\nИсточник: приложенное 
+ расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-modern-lec-all@idm-26-01-all
+DTSTAMP:20261111T050000Z
+DTSTART:20261210T150000Z
+DTEND:20261210T163000Z
+SUMMARY:Современные технологии разработки
+  ПО · Лекция
+DESCRIPTION:Лекция\nПреподаватель: Волкова О.
+ Р.\nГруппа: ИДМ-26-01\nЗанятие 12 из 12\nФорма
+ т по ранее опубликованному расписанию:
+  дистанционный\nИсточник: приложенное 
+ расписание\, 10.11.2026
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Напоминание о занятии
+END:VALARM
+END:VEVENT
+END:VCALENDAR
